@@ -44,3 +44,4 @@ help what
 ./insert_data.sh
 declare -p IFS
 declare -p IFS
+./insert_data.sh
