@@ -39,3 +39,4 @@ where bash
 when bash
 help which
 help what
+./insert_data.sh
